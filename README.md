@@ -6,12 +6,12 @@
 
 ## ✨ Fitur Utama
 
-- **Visuals** – Nama, jarak, health, skeleton, kendaraan, granat  
-- **Aim** – Head/Body Lock dengan kontrol halus  
-- **Memory** – Sistem anti-ban terbaru (emulator & Android)  
-- **Info** – Konfigurasi mudah & dinamis  
+- **Visuals** – All Player ESP & World, Bypass Island
+- **Aim** – Menu Aim Seperti Aimbot, Auto Headshot, Bullet Tracking, Auto Fire
+- **Memory** – Menu Tambahan Seperti Flash Speed, Fast Landing, Sky Fly
+- **Info** – Info Tentang Mod Dan Masa Lisensi Berakhir
 - **Tanpa Root & Root (opsional)** – Kompatibel dengan berbagai perangkat  
-
+- **Support Android 10 - 15**
 ---
 
 ## 📥 Download
