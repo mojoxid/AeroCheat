@@ -1,16 +1,16 @@
 # Aerocheat PUBG Lite
 
-**Aerocheat** adalah cheat PUBG Mobile Lite all-in-one yang menyediakan fitur ESP, Aimbot, dan Bypass dengan performa tinggi dan keamanan maksimal. Didukung sistem hook-based modern dan tampilan overlay yang clean.
+**Aerocheat** adalah cheat PUBG Mobile Lite all-in-one yang menyediakan fitur ESP, Aimbot, dan Bypass dengan performa tinggi dan keamanan maksimal. Dengan Tampilan Ui Mod Yang Simple ImGui, Didukung sistem hook-based modern dan tampilan overlay yang clean.
 
 ---
 
 ## ✨ Fitur Utama
 
-- **ESP Lengkap** – Nama, jarak, health, skeleton, kendaraan, granat  
-- **Aimbot Otomatis** – Head/Body Lock dengan kontrol halus  
-- **Bypass Hook-Based** – Sistem anti-ban terbaru (emulator & Android)  
-- **Konfigurasi JSON Dinamis** – Mudah diubah sesuai keinginan  
-- **Tanpa Root (opsional)** – Dukung berbagai versi perangkat  
+- **Visuals** – Nama, jarak, health, skeleton, kendaraan, granat  
+- **Aim** – Head/Body Lock dengan kontrol halus  
+- **Memory** – Sistem anti-ban terbaru (emulator & Android)  
+- **Info** – Mudah diubah sesuai keinginan  
+- **Tanpa Root & Root (opsional)** – Dukung berbagai versi perangkat  
 
 ---
 
@@ -31,8 +31,8 @@
 
 ## 📱 Komunitas & Dukungan
 
-[![Telegram](https://img.shields.io/badge/Telegram-Join%20Group-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/aerocheat)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Support-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/628xxxxxxxxxx)  
+[![Telegram](https://img.shields.io/badge/Telegram-Join%20Group-2CA5E0?style=for-the-badge&logo=telegram)](Aerocheats_id)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Support-25D366?style=for-the-badge&logo=whatsapp)]([[https://wa.me/628xxxxxxxxxx](https://youtube.com/@aerocheats-h1?si=PsXQPl9RTxIqhSxW)](https://chat.whatsapp.com/HUYV2mdlKf0IEkX9enm7IK))  
 [![YouTube](https://img.shields.io/badge/YouTube-Tutorials-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/@aerocheat)
 
 ---
@@ -41,8 +41,9 @@
 
 1. Kunjungi tab [Releases](https://github.com/mojoxid/AeroCheat/releases) dan unduh file `.apk`.  
 2. Aktifkan opsi "Install unknown apps" di perangkat kamu.  
-3. Jalankan Aerocheat sebelum membuka PUBG Lite.  
-4. Atur fitur melalui overlay yang muncul.
+3. Jalankan plikasi Pubg Lite Mod Kamu.
+4. Kamu Akan Disuruh Login Dengan Memasukkan Key.
+5. Mod Berhasil Terpasang.
 
 ---
 
