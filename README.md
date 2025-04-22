@@ -1,17 +1,24 @@
 # Aerocheat PUBG Lite
 
-**Aerocheat** adalah cheat ESP + Aimbot untuk PUBG Mobile Lite yang dirancang untuk stabilitas tinggi, tampilan rapi, dan keamanan maksimal. Ideal untuk pemain emulator maupun Android.
+**Aerocheat** adalah cheat PUBG Mobile Lite all-in-one yang memberikan fitur ESP, aimbot, dan bypass canggih dengan performa tinggi dan tampilan bersih.
 
 ---
 
 ## ✨ Fitur Utama
 
-- **ESP Lengkap** – Nama, jarak, health bar, skeleton, kendaraan, granat
-- **Aimbot Head/Body** – Lock otomatis dengan kontrol penuh
-- **360 Alert** – Deteksi musuh di luar layar
-- **Bypass Aman** – Hook-based anti-ban terbaru
-- **Konfigurasi JSON** – Mudah disesuaikan
-- **Support Emulator & Android** – Tanpa root
+- **ESP Lengkap** – Player, kendaraan, granat, health, skeleton
+- **Aimbot Otomatis** – Lock ke kepala/badan dengan akurasi tinggi
+- **360° Alert System** – Deteksi musuh di luar layar
+- **Bypass Hook-Based** – Anti-ban, aman untuk Android & Emulator
+- **Konfigurasi JSON** – Mudah dimodifikasi sesuai kebutuhan
+
+---
+
+## 🖼️ Screenshot
+
+| ESP Overlay | Aimbot View |
+|-------------|-------------|
+| ![ESP Screenshot](https://your-domain.com/images/esp_screenshot.jpg) | ![Aimbot Screenshot](https://your-domain.com/images/aimbot_screenshot.jpg) |
 
 ---
 
@@ -21,9 +28,16 @@
 
 ---
 
-## 📱 Kontak & Komunitas
+## 📊 GitHub Stats
 
-Gabung ke komunitas Aerocheat dan dapatkan bantuan langsung:
+[![GitHub Stars](https://img.shields.io/github/stars/username/aerocheat-pubg-lite?style=social)](https://github.com/username/aerocheat-pubg-lite/stargazers)  
+[![GitHub Forks](https://img.shields.io/github/forks/username/aerocheat-pubg-lite?style=social)](https://github.com/username/aerocheat-pubg-lite/network/members)  
+[![GitHub Issues](https://img.shields.io/github/issues/username/aerocheat-pubg-lite?style=flat)](https://github.com/username/aerocheat-pubg-lite/issues)  
+[![Last Commit](https://img.shields.io/github/last-commit/username/aerocheat-pubg-lite?style=flat)](https://github.com/username/aerocheat-pubg-lite/commits/main)
+
+---
+
+## 📱 Kontak & Komunitas
 
 [![Telegram](https://img.shields.io/badge/Telegram-Join%20Group-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/aerocheat)  
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Support-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/628xxxxxxxxxx)  
@@ -31,16 +45,15 @@ Gabung ke komunitas Aerocheat dan dapatkan bantuan langsung:
 
 ---
 
-## ⚙️ Instalasi
+## ⚙️ Cara Instalasi
 
-1. Download file dari link di atas.
-2. Aktifkan "Install unknown apps" di Android kamu.
-3. Install Aerocheat dan buka sebelum menjalankan PUBG Lite.
-4. Aktifkan fitur yang kamu inginkan dari overlay menu.
+1. Download file `.apk` dari link di atas.
+2. Aktifkan izin install aplikasi tidak dikenal.
+3. Buka Aerocheat terlebih dahulu, lalu jalankan PUBG Lite.
+4. Gunakan menu overlay untuk mengaktifkan fitur.
 
 ---
 
 ## 📝 License
 
-Aerocheat is licensed under the **MIT License**.  
-You are free to use, modify, and distribute this software with proper credit.
+Aerocheat menggunakan lisensi **MIT**. Bebas digunakan, dimodifikasi, dan disebarkan dengan mencantumkan kredit.
