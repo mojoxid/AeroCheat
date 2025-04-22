@@ -1,6 +1,6 @@
 # Aerocheat PUBG Lite
 
-**Aerocheat** adalah cheat PUBG Mobile Lite all-in-one yang menyediakan fitur ESP, Aimbot, dan Bypass dengan performa tinggi dan keamanan maksimal. Dengan Tampilan Ui Mod Yang Simple ImGui, Didukung sistem hook-based modern dan tampilan overlay yang clean.
+**Aerocheat** adalah cheat PUBG Mobile Lite all-in-one yang menyediakan fitur ESP, Aimbot, dan Bypass dengan performa tinggi dan keamanan maksimal. Dengan tampilan UI mod yang simple berbasis ImGui, serta sistem hook-based modern dan overlay yang clean.
 
 ---
 
@@ -9,8 +9,8 @@
 - **Visuals** – Nama, jarak, health, skeleton, kendaraan, granat  
 - **Aim** – Head/Body Lock dengan kontrol halus  
 - **Memory** – Sistem anti-ban terbaru (emulator & Android)  
-- **Info** – Mudah diubah sesuai keinginan  
-- **Tanpa Root & Root (opsional)** – Dukung berbagai versi perangkat  
+- **Info** – Konfigurasi mudah & dinamis  
+- **Tanpa Root & Root (opsional)** – Kompatibel dengan berbagai perangkat  
 
 ---
 
@@ -31,8 +31,8 @@
 
 ## 📱 Komunitas & Dukungan
 
-[![Telegram](https://img.shields.io/badge/Telegram-Join%20Group-2CA5E0?style=for-the-badge&logo=telegram)](Aerocheats_id)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Support-25D366?style=for-the-badge&logo=whatsapp)]([[https://chat.whatsapp.com/HUYV2mdlKf0IEkX9enm7IK](https://youtube.com/@aerocheats-h1?si=PsXQPl9RTxIqhSxW)](https://chat.whatsapp.com/HUYV2mdlKf0IEkX9enm7IK))  
+[![Telegram](https://img.shields.io/badge/Telegram-Join%20Group-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/Aerocheats_id)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Join%20Group-25D366?style=for-the-badge&logo=whatsapp)](https://chat.whatsapp.com/HUYV2mdlKf0IEkX9enm7IK)  
 [![YouTube](https://img.shields.io/badge/YouTube-Tutorials-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/@aerocheats-h1?si=PsXQPl9RTxIqhSxW)
 
 ---
@@ -41,9 +41,9 @@
 
 1. Kunjungi tab [Releases](https://github.com/mojoxid/AeroCheat/releases) dan unduh file `.apk`.  
 2. Aktifkan opsi "Install unknown apps" di perangkat kamu.  
-3. Jalankan plikasi Pubg Lite Mod Kamu.
-4. Kamu Akan Disuruh Login Dengan Memasukkan Key.
-5. Mod Berhasil Terpasang.
+3. Jalankan aplikasi PUBG Lite Mod kamu.  
+4. Masukkan **key login** saat diminta.  
+5. Mod berhasil terpasang dan siap digunakan!
 
 ---
 
