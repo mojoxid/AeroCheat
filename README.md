@@ -18,7 +18,7 @@
 
 | Mod Menu Ui | More |
 |-------------|-------------|
-| ![ESP Screenshot](https://your-domain.com/images/esp_screenshot.jpg) | ![Aimbot Screenshot](https://img.shields.io/badge/Download-Aerocheat-blue?style=for-the-badge&logo=google-drive) |
+| ![ESP Screenshot](https://img.shields.io/badge/Download-Aerocheat-blue?style=for-the-badge&logo=google-drive) | ![Aimbot Screenshot](https://img.shields.io/badge/Download-Aerocheat-blue?style=for-the-badge&logo=google-drive) |
 
 ---
 
