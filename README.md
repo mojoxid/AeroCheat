@@ -32,8 +32,8 @@
 ## 📱 Komunitas & Dukungan
 
 [![Telegram](https://img.shields.io/badge/Telegram-Join%20Group-2CA5E0?style=for-the-badge&logo=telegram)](Aerocheats_id)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Support-25D366?style=for-the-badge&logo=whatsapp)]([[https://wa.me/628xxxxxxxxxx](https://youtube.com/@aerocheats-h1?si=PsXQPl9RTxIqhSxW)](https://chat.whatsapp.com/HUYV2mdlKf0IEkX9enm7IK))  
-[![YouTube](https://img.shields.io/badge/YouTube-Tutorials-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/@aerocheat)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Support-25D366?style=for-the-badge&logo=whatsapp)]([[https://chat.whatsapp.com/HUYV2mdlKf0IEkX9enm7IK](https://youtube.com/@aerocheats-h1?si=PsXQPl9RTxIqhSxW)](https://chat.whatsapp.com/HUYV2mdlKf0IEkX9enm7IK))  
+[![YouTube](https://img.shields.io/badge/YouTube-Tutorials-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/@aerocheats-h1?si=PsXQPl9RTxIqhSxW)
 
 ---
 
