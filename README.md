@@ -1,15 +1,22 @@
-![Encore Tweaks](./img/banner.jpg)
-# Encore Tweaks
-An Magisk module created to enhance device performance during gaming sessions, while keeping battery life optimized for normal use. With fully automatic performance profiles and wide compatibility across various SoCs, Encore Tweaks adapts dynamically to boost your device's performance when it matters most.
+# Aerocheat PUBG Lite
+**Aerocheat** adalah cheat PUBG Mobile Lite serbaguna yang dirancang untuk memberikan pengalaman bermain terbaik dengan fitur ESP, Aimbot, Bypass, dan banyak lagi. Dikembangkan dengan performa dan keamanan sebagai prioritas utama.
 
-More info about this project on [Official Encore Tweaks website](https://encore.rem01gaming.dev/)
+## ✨ Fitur Utama
+- **ESP Lengkap**: Player, kendaraan, granat, health bar, skeleton, dan alert 360°
+- **Aimbot Presisi**: Penguncian target otomatis dengan akurasi tinggi
+- **Bypass Anti-Ban**: Sistem hook-based terbaru untuk keamanan maksimal
+- **Konfigurasi JSON**: Mudah dikustomisasi sesuai kebutuhan pengguna
+- **Support Emulator & Android**: Kompatibel dengan berbagai perangkat
 
-## Stop opening source
-Due to the rampant misuse and the contributions received after open-sourcing being less than expected, this module will be closed-source starting from version 2.1.
+## ⚙️ Persyaratan
+- Android 7.0+
+- Root / Non-Root (tergantung metode)
+- PUBG Mobile Lite (com.tencent.iglite)
 
-## Special Credits
-- [tytydraco](https://github.com/tytydraco/KTweak) for KTweaks
-- [NotZeetaa](https://github.com/NotZeetaa/YAKT) for YAKT
-- ~~[RiProG](https://github.com/RiProG-id) for App Monitoring~~
-- [rsuntk](https://github.com/rsuntk) for arm32 support
-- Our contributor and tester
+## 📸 Screenshot
+![Aerocheat ESP Example](https://your-image-link.com/screenshot.jpg)
+
+## 📥 Instalasi
+1. Clone repo ini:
+   ```bash
+   git clone https://github.com/username/aerocheat-pubg-lite.git
