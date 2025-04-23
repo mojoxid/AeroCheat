@@ -1,17 +1,20 @@
 # Aerocheat PUBG Lite
 
+[![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-121013?style=for-the-badge&logo=github)](https://github.com/mojoxid/AeroCheat)
+
 **Aerocheat** adalah cheat PUBG Mobile Lite all-in-one yang menyediakan fitur ESP, Aimbot, dan Bypass dengan performa tinggi dan keamanan maksimal. Dengan tampilan UI mod yang simple berbasis ImGui, serta sistem hook-based modern dan overlay yang clean.
 
 ---
 
 ## ✨ Fitur Utama
 
-- **Visuals** – All Player ESP & World, Bypass Island
-- **Aim** – Menu Aim Seperti Aimbot, Auto Headshot, Bullet Tracking, Auto Fire
-- **Memory** – Menu Tambahan Seperti Flash Speed, Fast Landing, Sky Fly
-- **Info** – Info Tentang Mod Dan Masa Lisensi Berakhir
+- **Visuals** – All Player ESP & World, Bypass Island  
+- **Aim** – Menu Aim Seperti Aimbot, Auto Headshot, Bullet Tracking, Auto Fire  
+- **Memory** – Menu Tambahan Seperti Flash Speed, Fast Landing, Sky Fly  
+- **Info** – Info Tentang Mod Dan Masa Lisensi Berakhir  
 - **Tanpa Root & Root (opsional)** – Kompatibel dengan berbagai perangkat  
 - **Support Android 10 - 15**
+
 ---
 
 ## 📥 Download
