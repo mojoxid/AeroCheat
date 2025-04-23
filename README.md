@@ -1,7 +1,4 @@
 # Aerocheat PUBG Lite
-
-[![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-121013?style=for-the-badge&logo=github)](https://github.com/mojoxid/AeroCheat)
-
 **Aerocheat** adalah cheat PUBG Mobile Lite all-in-one yang menyediakan fitur ESP, Aimbot, dan Bypass dengan performa tinggi dan keamanan maksimal. Dengan tampilan UI mod yang simple berbasis ImGui, serta sistem hook-based modern dan overlay yang clean.
 
 ---
@@ -28,7 +25,8 @@
 [![GitHub Stars](https://img.shields.io/github/stars/mojoxid/AeroCheat?style=social)](https://github.com/mojoxid/AeroCheat/stargazers)  
 [![GitHub Forks](https://img.shields.io/github/forks/mojoxid/AeroCheat?style=social)](https://github.com/mojoxid/AeroCheat/network/members)  
 [![GitHub Issues](https://img.shields.io/github/issues/mojoxid/AeroCheat?style=flat)](https://github.com/mojoxid/AeroCheat/issues)  
-[![Last Commit](https://img.shields.io/github/last-commit/mojoxid/AeroCheat?style=flat)](https://github.com/mojoxid/AeroCheat/commits/main)
+[![Last Commit](https://img.shields.io/github/last-commit/mojoxid/AeroCheat?style=flat)](https://github.com/mojoxid/AeroCheat/commits/main)  
+[![Total Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/mojoxid/AeroCheat&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=views&edge_flat=false)](https://github.com/mojoxid/AeroCheat)
 
 ---
 
